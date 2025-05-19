@@ -1,2 +1,2 @@
 -- Basic Embed things for Notion --
-- [Progres Bar](NotionThings/ProgressBar.html)
+- [Progres Bar](ProgressBar.html)
